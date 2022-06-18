@@ -1,0 +1,63 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1613324284912,
+    "data": [
+        {
+            "type": "file",
+            "name": "myCustomDeployment.js",
+            "size": 581,
+            "hash": "d459af42e3450257d5dc91b0aaabe42824ae8a5c833d4e1bf9d6d9958955c925"
+        },
+        {
+            "type": "folder",
+            "name": ".idea"
+        },
+        {
+            "type": "file",
+            "name": ".ftp-deploy-sync-state.json",
+            "size": 2174,
+            "hash": "8fc58bbe614dbc8a907994ee6073e621abb63f86fb150a9893324153af0f9826"
+        },
+        {
+            "type": "file",
+            "name": "package-lock.json",
+            "size": 42767,
+            "hash": "bf7928b3ce5dc27ab53b8419951efefa18855b8a8d0b120381edf7fe41dff181"
+        },
+        {
+            "type": "file",
+            "name": "package.json",
+            "size": 398,
+            "hash": "098263b791c77d5004e7fb12d6ab07d9da7df01c8a860eeae7163b072207da0c"
+        },
+        {
+            "type": "folder",
+            "name": "node_modules"
+        },
+        {
+            "type": "file",
+            "name": ".idea/deploytest.iml",
+            "size": 288,
+            "hash": "c175f68ed3b5420621f4e81c25a5d205c21978b65b6c4f351a4000a43e6242ad"
+        },
+        {
+            "type": "file",
+            "name": ".idea/modules.xml",
+            "size": 279,
+            "hash": "60d6a87d0cd1516f9ede648c3900787962dc31b171d77aba914ab5957ed9e6d9"
+        },
+        {
+            "type": "file",
+            "name": ".idea/jsLibraryMappings.xml",
+            "size": 192,
+            "hash": "d740d56a958c27bcb7d86433e700f4ccbde469ac2fab2d01e6222ae55b1ad278"
+        },
+        {
+            "type": "file",
+            "name": ".idea/workspace.xml",
+            "size": 3006,
+            "hash": "2f79107710fcfc320b3a77342e58b7457989fa67b74740eb601de56fdd44afc3"
+        }
+    ]
+}
